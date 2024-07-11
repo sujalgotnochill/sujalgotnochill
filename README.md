@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sujal Vishwakarma and I'm currently a student of Artificial Intelligence and data science.</h2>
+<h2 align="left">Hi 👋! My name is Sujal Vishwakarma and I'm currently pursuing Bachelors of Technology in Artificial Intelligence and data science.</h2>
 
 ###
 
