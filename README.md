@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sujal Vishwakarma and I'm currently pursuing Bachelors of Technology in Artificial Intelligence and data science.</h2>
+<h2 align="left">Hi 👋! I'm Sujal Vishwakarma, a recent graduate with a B.Tech in Artificial Intelligence and Data Science. I'm passionate about building intelligent systems and exploring real-world applications of machine learning and data-driven solutions. </h2>
 
 ###
 
