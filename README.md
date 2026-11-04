@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sujalvishwakarma5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sujalvishwakarma5%40gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/sujalgotnochill">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -288,8 +288,8 @@ An ERP software project developed for business workflow management.
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <a href="mailto:sujalvishwakarma5@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sujalvishwakarma5%40gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/sujalgotnochill">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
